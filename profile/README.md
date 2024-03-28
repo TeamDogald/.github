@@ -3,4 +3,4 @@ A website dedicated to pictures of dogs. Built in Vite + React, using the [Dog A
 Created by [Nico Aroca](https://github.com/tailsmster) and [Berlineda Faurelus](https://github.com/Faurelus), for [@TheMarcyLabSchool](https://www.marcylabschool.org/)
 
 * Website URL: TBA
-* Repo URL: [https://github.com/TeamTronald/Breed-Guesser](https://github.com/TeamTronald/Breed-Guesser)
+* Repo URL: [https://github.com/TeamDogald/Breed-Guesser](https://github.com/TeamDogald/Breed-Guesser)
